@@ -1,0 +1,36 @@
+.home-wrapper {
+  background: #e7edef;
+}
+
+.profile-section{
+  background-color: #FFFFFF;
+  position: sticky;
+  top: 0;
+}
+
+.top-news-field, .scroll-page{
+  background-color: #FFFFFF;
+}
+
+.post-input{
+  height: 2rem;
+}
+.home-post-error-state{
+  min-width: 50%;
+}
+
+
+
+@media(max-width:431px){
+  .home-post-error-state{
+    min-width: 70%;
+  }
+}
+
+/* .home-main{
+  
+} */
+
+/* .profile-img{
+  width: 3rem;
+} */
